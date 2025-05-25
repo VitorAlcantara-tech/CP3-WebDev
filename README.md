@@ -19,12 +19,12 @@ Este projeto é um catálogo interativo de filmes, desenvolvido com HTML, CSS e 
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px;" alt="Foto Vitor"/>
+      <img src="/img/Vitor.png" width="100px;" alt="Foto Vitor"/>
       <br>
       <sub>Vitor Alcantara</sub>
       <br>
       RM: 56588
-      <br><a href="https://github.com/vitor-alcantara" target="_blank">GitHub</a>
+      <br><a href="https://github.com/VitorAlcantara-tech" target="_blank">GitHub</a>
       • <a href="https://www.linkedin.com/in/vitor-alcantara" target="_blank">LinkedIn</a>
     </td>
 
