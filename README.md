@@ -23,7 +23,7 @@ Este projeto é um catálogo interativo de filmes, desenvolvido com HTML, CSS e 
       <br>
       <sub>Vitor Alcantara</sub>
       <br>
-      RM: 56588
+      RM: 565885
       <br><a href="https://github.com/VitorAlcantara-tech" target="_blank">GitHub</a>
       • <a href="https://www.linkedin.com/in/vitor-alcantara" target="_blank">LinkedIn</a>
     </td>
